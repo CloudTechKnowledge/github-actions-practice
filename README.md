@@ -1,1 +1,6 @@
-# This repository is created for learning basic github concepts
+# Project name
+This repo is created for github action understandings
+## Features
+
+- first of all understand github
+- then understand github actions 
